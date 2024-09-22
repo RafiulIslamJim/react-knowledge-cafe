@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "cover_pic": "https://unsplash.com/photos/Jztmx9yqjBw",
+    "title": "The Rise of Web Technologies",
+    "author": "Alex Johnson",
+    "img": "https://unsplash.com/photos/Jztmx9yqjBw",
+    "poster": "https://unsplash.com/photos/a6VhFz5bP_0",
+    "date": "2024-09-23",
+    "reading_time": 5,
+    "hashtags": ["#webdevelopment", "#javascript", "#frontend"]
+  },
+  {
+    "id": 2,
+    "cover_pic": "https://unsplash.com/photos/Z9f7ojv0MbY",
+    "title": "Understanding TypeScript Basics",
+    "author": "Emily Davis",
+    "img": "https://unsplash.com/photos/Z9f7ojv0MbY",
+    "poster": "https://unsplash.com/photos/eOcyhe5-9sQ",
+    "date": "2024-09-20",
+    "reading_time": 7,
+    "hashtags": ["#typescript", "#programming", "#coding"]
+  },
+  {
+    "id": 3,
+    "cover_pic": "https://unsplash.com/photos/1Z2niiBPg5A",
+    "title": "How React Changed Frontend Development",
+    "author": "Sophia Lee",
+    "img": "https://unsplash.com/photos/1Z2niiBPg5A",
+    "poster": "https://unsplash.com/photos/AgJdd_HgBZk",
+    "date": "2024-09-21",
+    "reading_time":6,
+    "hashtags": ["#react", "#frontend", "#uiux"]
+  },
+  {
+    "id": 4,
+    "cover_pic": "https://unsplash.com/photos/lNpbGmp0s0Q",
+    "title": "Modern UI/UX Trends",
+    "author": "David Brown",
+    "img": "https://unsplash.com/photos/lNpbGmp0s0Q",
+    "poster": "https://unsplash.com/photos/YQ0rIgl7jzo",
+    "date": "2024-09-18",
+    "reading_time": 8,
+    "hashtags": ["#uiux", "#design", "#frontend"]
+  },
+  {
+    "id": 5,
+    "cover_pic": "https://unsplash.com/photos/GX8KBbVmC6c",
+    "title": "Building Scalable Web Apps",
+    "author": "Michael Scott",
+    "img": "https://unsplash.com/photos/GX8KBbVmC6c",
+    "poster": "https://unsplash.com/photos/vIm26fnLOdQ",
+    "date": "2024-09-19",
+    "reading_time":8,
+    "hashtags": ["#webdevelopment", "#scalability", "#backend"]
+  },
+  {
+    "id": 6,
+    "cover_pic": "https://unsplash.com/photos/HJckKnwCXxQ",
+    "title": "Introduction to API Design",
+    "author": "Jessica Evans",
+    "img": "https://unsplash.com/photos/HJckKnwCXxQ",
+    "poster": "https://unsplash.com/photos/ZzOa5G8hSPI",
+    "date": "2024-09-22",
+    "reading_time": 10,
+    "hashtags": ["#api", "#webdevelopment", "#backend"]
+  }
+]
